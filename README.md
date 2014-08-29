@@ -17,7 +17,7 @@ Several sounds from the game were obtained from freesound.org and resampled:
  * "water step.wav" by nathanaelj83: http://www.freesound.org/people/nathanaelj83/sounds/145242/
 
 Procedural cave generation is based on Jim Babcock's cellular automata method:  
-http://roguebasin.roguelikedevelopment.org/index.php?title=Cellular\_Automata\_Method\_for\_Generating\_Random\_Cave-Like\_Levels
+http://roguebasin.roguelikedevelopment.org/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels
 
 Pythonic enums are taken from Alec Thomas's answer on stackoverflow:  
 http://stackoverflow.com/questions/36932/whats-the-best-way-to-implement-an-enum-in-python  
